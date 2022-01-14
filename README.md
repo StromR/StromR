@@ -97,12 +97,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stromr)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stromr)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stromr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
