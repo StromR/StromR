@@ -7,7 +7,7 @@
 <h3> Get to know me </h3>
 
 - 🎓 I’m currently studying software engineering at Indonesia University of Education
-- 💻 I’m interested in Machine Learning and Deep Learning
+- 💻 I’m interested in Data Science and Machine Learning
 - 💬 Looking for collaboration
 
 <p>Connect with me on
