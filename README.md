@@ -14,8 +14,6 @@
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/guntur-ramadhan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://www.instagram.com/gun_ramadhan/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-&emsp;
 <a target="_blank" href="https://medium.com/@gunturramadhan25"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 
