@@ -6,7 +6,8 @@
 
 <h3> Get to know me </h3>
 
-- 🎓 I’m currently studying software engineering at Indonesia University of Education
+- 🏢 I’m currently working as Business Intelligence Analyst
+- 🎓 Bachelor of Software Engineering
 - 💻 I’m interested in Data Science and Machine Learning
 - 💬 Looking for collaboration
 
